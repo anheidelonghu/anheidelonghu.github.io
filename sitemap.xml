@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2022-02-20T02:39:37+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/dir/test/</loc>
+    <lastmod>2022-02-19T21:40:05+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</loc>
+    <lastmod>2022-02-19T01:35:24+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-02-19T01:34:52+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2022-02-19T01:17:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2022-02-20T02:39:37+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+  </url>
 </urlset>
