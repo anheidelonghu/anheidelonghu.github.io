@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 20 Feb 2022 23:22:16 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 23:48:02 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -263,7 +263,7 @@ Utterances是一款github app，点击&lt;a href=&#34;https://link.zhihu.com/?ta
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;show&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;k&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;![PyTorch 逻辑回归](PyTorch 逻辑回归.png)&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;PyTorch.png&#34; alt=&#34;PyTorch&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;numpy-逻辑回归&#34;&gt;Numpy 逻辑回归&lt;/h2&gt;
 &lt;p&gt;和PyTorch代码类似，自行推导梯度&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
