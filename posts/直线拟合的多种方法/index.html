@@ -21,7 +21,7 @@
 
     
     
-        <script src="/js/meme.min.0a98ce5c8645d743e535343f85d156685503e278460ef6cb432cace9f57710a1.js"></script>
+        <script src="/js/meme.min.786e2afb5ffbeae638ded1b691b8b56bed5452f046e1b54f52d50435d3678ae2.js"></script>
 
     
 
@@ -668,6 +668,10 @@
     
         <ul class="post-nav">
             
+                <li class="post-nav-prev">
+                    <a href="/posts/hugo%E4%BD%BF%E7%94%A8/" rel="prev">&lt; Hugo使用</a>
+                </li>
+            
             
                 <li class="post-nav-next">
                     <a href="/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/" rel="next">Windows下githubio个人网站搭建 &gt;</a>
@@ -691,6 +695,8 @@
 
         
 
+        
+            <div id="utterances"></div>
         
 
         
@@ -777,6 +783,28 @@
 
         
 
+        
+            <script>
+    function loadComments() {
+        (function() {
+            var utterances = document.getElementById("utterances");
+            var script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.async = true;
+            script.crossOrigin = 'anonymous';
+            script.setAttribute('repo', 'anheidelonghu\/anheidelonghu.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            const isDark = getCurrentTheme() === 'dark';
+        if (isDark) {
+            script.setAttribute('theme', 'photon-dark');
+        } else {
+            script.setAttribute('theme', 'github-light');
+        }
+            
+            utterances.appendChild(script);
+        })();
+    }
+</script>
         
 
         

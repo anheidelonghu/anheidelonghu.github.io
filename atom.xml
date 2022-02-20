@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白发渔樵的笔记</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-02-20T22:26:49&#43;08:00</updated>
+    <updated>2022-02-20T23:04:18&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,77 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.93.0-DEV">Hugo</generator>
+        <entry>
+            <title type="text">Hugo使用</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/hugo%E4%BD%BF%E7%94%A8/" />
+            <id>https://example.com/posts/hugo%E4%BD%BF%E7%94%A8/</id>
+            <updated>2022-02-20T23:02:37&#43;08:00</updated>
+            <published>2022-02-20T22:38:56&#43;08:00</published>
+            <author>
+                    <name>白发渔樵</name>
+                    <uri>https://scholar.google.com/citations?user=GFknErYAAAAJ&amp;hl=zh-CN</uri>
+                    <email>hxx_zju@zju.edu.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">标签和目录 front matter：markdown的开头部分，用于对文章配置，其配置优先级高……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;标签和目录&#34;&gt;标签和目录&lt;/h2&gt;
+&lt;p&gt;front matter：markdown的开头部分，用于对文章配置，其配置优先级高于config.toml。
+![front matter](front matter.png)
+tags：标签，一篇博客可以有多个标签，可以在&lt;strong&gt;标签&lt;/strong&gt;栏目中按标签查找文章。
+&lt;img src=&#34;tags.png&#34; alt=&#34;tags&#34;&gt;
+categories：目录，一篇博客只有能一个目录，可以在&lt;strong&gt;分类&lt;/strong&gt;栏中按目录结构查找文章。
+&lt;img src=&#34;categories.png&#34; alt=&#34;categories&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;评论系统&#34;&gt;评论系统&lt;/h2&gt;
+&lt;p&gt;hugo支持多种评论系统（Utterances，Disqus，Valine，Gitalk），本文采用Utterances&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装Utterances
+Utterances是一款github app，点击&lt;a href=&#34;https://link.zhihu.com/?target=https%3A//github.com/apps/utterances&#34;&gt;链接&lt;/a&gt;将Utterances安装到博客的githubio仓库。
+&lt;img src=&#34;install_utterances.png&#34; alt=&#34;install_utterances&#34;&gt;&lt;/li&gt;
+&lt;li&gt;修改配置
+以MemE主题为例，打开config.toml，&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" term="基本操作" label="基本操作" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/hugo/" term="hugo" label="hugo" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" term="基本操作" label="基本操作" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/hugo/" term="hugo" label="hugo" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">直线拟合的多种方法</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%9B%B4%E7%BA%BF%E6%8B%9F%E5%90%88%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/" />
@@ -321,7 +392,7 @@
             <title type="text">Windows下githubio个人网站搭建</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/" />
             <id>https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</id>
-            <updated>2022-02-20T22:24:21&#43;08:00</updated>
+            <updated>2022-02-20T22:34:49&#43;08:00</updated>
             <published>2022-02-19T00:48:09&#43;08:00</published>
             <author>
                     <name>白发渔樵</name>
@@ -475,6 +546,12 @@ hugo在0.48版本后就采用go搭建。点击&lt;a href=&#34;https://go.dev/doc
                             
                             
                                 <category scheme="https://example.com/categories/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" term="基本操作" label="基本操作" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/hugo/" term="hugo" label="hugo" />
                             
                         
                     
