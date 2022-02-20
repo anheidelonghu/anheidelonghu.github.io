@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://anheidelonghu.github.io/categories/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://anheidelonghu.github.io/tags/hugo/</loc>
     <lastmod>2022-02-20T23:02:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/hugo/</loc>
+    <loc>https://anheidelonghu.github.io/categories/hugo/</loc>
     <lastmod>2022-02-20T23:02:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/hugo%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://anheidelonghu.github.io/posts/hugo%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2022-02-20T23:02:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://anheidelonghu.github.io/posts/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://anheidelonghu.github.io/tags/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
+    <loc>https://anheidelonghu.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
     <lastmod>2022-02-20T23:02:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
+    <loc>https://anheidelonghu.github.io/categories/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
     <lastmod>2022-02-20T23:02:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B/</loc>
+    <loc>https://anheidelonghu.github.io/tags/%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B/</loc>
+    <loc>https://anheidelonghu.github.io/categories/%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://anheidelonghu.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://anheidelonghu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/%E7%9B%B4%E7%BA%BF%E6%8B%9F%E5%90%88%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://anheidelonghu.github.io/posts/%E7%9B%B4%E7%BA%BF%E6%8B%9F%E5%90%88%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2022-02-20T23:49:59+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://anheidelonghu.github.io/</loc>
     <lastmod>2022-02-19T01:34:52+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://anheidelonghu.github.io/about/</loc>
     <lastmod>2022-02-19T01:17:16+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://anheidelonghu.github.io/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-02-20T22:34:49+08:00</lastmod>
   </url>
 </urlset>
