@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 20 Feb 2022 15:21:13 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 15:26:19 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -460,6 +460,8 @@ hugo在0.48版本后就采用go搭建。点击&lt;a href=&#34;https://go.dev/doc
 &lt;/div&gt;&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;打开 username.github.io，查看结果。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;其他资料&#34;&gt;其他资料&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/reuixiy/io-oi.me/issues/74&#34;&gt;MemE主题使用汇总&lt;/a&gt;&lt;/p&gt;
 </description>
                 
                 

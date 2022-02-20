@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白发渔樵的笔记</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-02-20T15:21:13&#43;08:00</updated>
+    <updated>2022-02-20T15:26:19&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -315,7 +315,7 @@
             <title type="text">Windows下githubio个人网站搭建</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/" />
             <id>https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</id>
-            <updated>2022-02-20T02:53:15&#43;08:00</updated>
+            <updated>2022-02-20T15:26:09&#43;08:00</updated>
             <published>2022-02-19T00:48:09&#43;08:00</published>
             <author>
                     <name>白发渔樵</name>
@@ -454,6 +454,8 @@ hugo在0.48版本后就采用go搭建。点击&lt;a href=&#34;https://go.dev/doc
 &lt;/div&gt;&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;打开 username.github.io，查看结果。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;其他资料&#34;&gt;其他资料&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/reuixiy/io-oi.me/issues/74&#34;&gt;MemE主题使用汇总&lt;/a&gt;&lt;/p&gt;
 </content>
             
             
