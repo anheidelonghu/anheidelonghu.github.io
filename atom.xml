@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白发渔樵的笔记</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-02-20T02:42:01&#43;08:00</updated>
+    <updated>2022-02-20T11:10:39&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -17,38 +17,11 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.93.0-DEV">Hugo</generator>
         <entry>
-            <title type="text">Test</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/dir/test/" />
-            <id>https://example.com/posts/dir/test/</id>
-            <updated>2022-02-19T21:40:05&#43;08:00</updated>
-            <published>2022-02-19T21:40:05&#43;08:00</published>
-            <author>
-                    <name>白发渔樵</name>
-                    <uri>https://scholar.google.com/citations?user=GFknErYAAAAJ&amp;hl=zh-CN</uri>
-                    <email>hxx_zju@zju.edu.cn</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">第二篇</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/" />
-            <id>https://example.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</id>
-            <updated>2022-02-19T01:35:24&#43;08:00</updated>
-            <published>2022-02-19T01:35:24&#43;08:00</published>
+            <title type="text">直线拟合的多种方法</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%9B%B4%E7%BA%BF%E6%8B%9F%E5%90%88%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/" />
+            <id>https://example.com/posts/%E7%9B%B4%E7%BA%BF%E6%8B%9F%E5%90%88%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
+            <updated>2022-02-20T10:52:43&#43;08:00</updated>
+            <published>2022-02-20T10:52:42&#43;08:00</published>
             <author>
                     <name>白发渔樵</name>
                     <uri>https://scholar.google.com/citations?user=GFknErYAAAAJ&amp;hl=zh-CN</uri>
@@ -74,7 +47,7 @@
             <title type="text">Windows下githubio个人网站搭建</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/" />
             <id>https://example.com/posts/windows%E4%B8%8Bgithubio%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</id>
-            <updated>2022-02-20T02:39:37&#43;08:00</updated>
+            <updated>2022-02-20T02:53:15&#43;08:00</updated>
             <published>2022-02-19T00:48:09&#43;08:00</published>
             <author>
                     <name>白发渔樵</name>
@@ -221,7 +194,29 @@ hugo在0.48版本后就采用go搭建。点击&lt;a href=&#34;https://go.dev/doc
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" term="基本操作" label="基本操作" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" term="基本操作" label="基本操作" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/hugo/" term="hugo" label="hugo" />
+                            
+                        
                     
                 
             
