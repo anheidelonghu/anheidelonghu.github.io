@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白发渔樵的笔记</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-02-23T00:09:14&#43;08:00</updated>
+    <updated>2022-02-23T00:13:56&#43;08:00</updated>
     <id>https://anheidelonghu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://anheidelonghu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://anheidelonghu.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Markdown记录</title>
             <link rel="alternate" type="text/html" href="https://anheidelonghu.github.io/posts/markdown%E8%AE%B0%E5%BD%95/" />
             <id>https://anheidelonghu.github.io/posts/markdown%E8%AE%B0%E5%BD%95/</id>
-            <updated>2022-02-23T00:06:47&#43;08:00</updated>
+            <updated>2022-02-23T00:13:49&#43;08:00</updated>
             <published>2022-02-22T00:24:23&#43;08:00</published>
             <author>
                     <name>白发渔樵</name>
@@ -67,7 +67,9 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;公式实战&#34;&gt;公式实战&lt;/h2&gt;
 &lt;p&gt;$$
-\mathcal{L}&lt;em&gt;{Joint}(\theta) = -E&lt;/em&gt;{(t,v) \sim B}log {\bf MIL-NCE(t,v)} \
+\mathcal{L}&lt;em&gt;{Joint}(\theta) = -E&lt;/em&gt;{(t,v) \sim B}log {\bf MIL-NCE(t,v)}
+$$&lt;/p&gt;
+&lt;p&gt;$$
 {\bf {MIL-NCE}(t,v)} = \frac{\Sigma &lt;em&gt;{(\hat{v},\hat{t}) \in \mathcal{P}&lt;/em&gt;{v,t}}exp(\hat{v}\hat{t}^T)}{\mathcal{Z}}
 $$&lt;/p&gt;
 </content>

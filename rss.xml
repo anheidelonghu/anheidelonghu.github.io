@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 23 Feb 2022 00:09:14 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 00:13:56 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://anheidelonghu.github.io/rss.xml" />
         
@@ -76,7 +76,9 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;公式实战&#34;&gt;公式实战&lt;/h2&gt;
 &lt;p&gt;$$
-\mathcal{L}&lt;em&gt;{Joint}(\theta) = -E&lt;/em&gt;{(t,v) \sim B}log {\bf MIL-NCE(t,v)} \
+\mathcal{L}&lt;em&gt;{Joint}(\theta) = -E&lt;/em&gt;{(t,v) \sim B}log {\bf MIL-NCE(t,v)}
+$$&lt;/p&gt;
+&lt;p&gt;$$
 {\bf {MIL-NCE}(t,v)} = \frac{\Sigma &lt;em&gt;{(\hat{v},\hat{t}) \in \mathcal{P}&lt;/em&gt;{v,t}}exp(\hat{v}\hat{t}^T)}{\mathcal{Z}}
 $$&lt;/p&gt;
 </description>
