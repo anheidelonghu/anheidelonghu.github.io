@@ -23,10 +23,208 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 21 Feb 2022 00:22:42 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 00:07:07 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://anheidelonghu.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Markdown记录</title>
+                <link>https://anheidelonghu.github.io/posts/markdown%E8%AE%B0%E5%BD%95/</link>
+                <guid isPermaLink="true">https://anheidelonghu.github.io/posts/markdown%E8%AE%B0%E5%BD%95/</guid>
+                <pubDate>Tue, 22 Feb 2022 00:24:23 &#43;0800</pubDate>
+                
+                    <author>hxx_zju@zju.edu.cn (白发渔樵)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;意图&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;公式&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;结果&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;花体字母&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\mathcal{L}&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$\mathcal{L}$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;上标&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;^&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$X^{a1}$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;下标&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;_&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$X_{a1}$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;波浪线~&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\sim&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$\sim$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;加粗&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\bf&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$AAA{\bf AAA}AAA$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;公式实战&#34;&gt;公式实战&lt;/h2&gt;
+&lt;p&gt;$$
+\mathcal{L}&lt;em&gt;{Joint}(\theta) = -E&lt;/em&gt;{(t,v) \sim B}log {\bf MIL-NCE(t,v)} \
+{\bf {MIL-NCE}(t,v)} = \frac{\Sigma &lt;em&gt;{(\hat{v},\hat{t}) \in \mathcal{P}&lt;/em&gt;{v,t}}exp(\hat{v}\hat{t}^T)}{\mathcal{Z}}
+$$&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/categories/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/">基本操作</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/categories/markdown/">markdown</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/">基本操作</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/tags/markdown/">markdown</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>UniVL技术点总结</title>
+                <link>https://anheidelonghu.github.io/posts/univl/</link>
+                <guid isPermaLink="true">https://anheidelonghu.github.io/posts/univl/</guid>
+                <pubDate>Mon, 21 Feb 2022 19:28:05 &#43;0800</pubDate>
+                
+                    <author>hxx_zju@zju.edu.cn (白发渔樵)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/328819088&#34;&gt;参考链接&lt;/a&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2002.06353&#34;&gt;论文链接&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;结构&#34;&gt;结构&lt;/h2&gt;
+&lt;p&gt;整体结构如下：
+&lt;img src=&#34;architecture.png&#34; alt=&#34;architecture&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;encoder&#34;&gt;encoder&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;text encoder
+用的bert-base uncased抽特征&lt;/li&gt;
+&lt;li&gt;video encoder
+抽取S3D特征，之后也用bert抽特征&lt;/li&gt;
+&lt;li&gt;cross encoder
+把上述两个模块的特征，拼接后再送入bert抽一次特征，$Cat(\mathbb{R}^{m \times d}, \mathbb{R}^{n \times d}) = \mathbb{R}^{(m+n) \times d}$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;decoder&#34;&gt;decoder&lt;/h3&gt;
+&lt;p&gt;用T5或者BART，也就是下图的prefix LM在，输入$\mathbb{R}^{(m+n) \times d})$，输出$\mathbb{R}^{l \times d}$。
+&lt;img src=&#34;T5.png&#34; alt=&#34;T5&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;任务&#34;&gt;任务&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Video-Text Joint
+为了使得相邻的具有相同语义信息的word token特征和image frame特征，在特征空间上相近，使用MIL-NCE loss。MIL-NCE loss的核心思想是构建&lt;em&gt;视频帧-文本&lt;/em&gt;对，并衡量两种模态在特征空间上的乘积，使用NCE（噪声对比估计）计算loss。视频帧和文本匹配为正样本，否则为负样本。
+&lt;img src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/li&gt;
+&lt;li&gt;CMLM: Conditioned Masked Language Model
+类似MLM，mask掉文本的一部分，用剩余文本和全部视频信息预测被mask掉的文本。
+&lt;img src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/li&gt;
+&lt;li&gt;CMFM: Conditioned Masked Frame Model
+想法和CMLM类似，但是恢复图像信息比恢复文本信息难太多，改成用MIL-NCE，构建正负样本对。正样本是被mask掉的视频帧特征，负样本是此帧附近的视频帧特征。
+&lt;img src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Video-Text Alignment
+分类任务，判断&lt;em&gt;视频-文本&lt;/em&gt;对是否匹配，正负样本自行构建。
+&lt;img src=&#34;4.png&#34; alt=&#34;4&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Language Reconstruct
+生成任务，输入为一直视频、被mask掉的文本，以自回归的方式按顺序恢复被mask掉的文本，从而输出完整文本。
+&lt;img src=&#34;5.png&#34; alt=&#34;5&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/">深度学习</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/categories/%E5%A4%9A%E6%A8%A1%E6%80%81/">多模态</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/categories/%E8%A7%86%E9%A2%91/">视频</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/">深度学习</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/">多模态</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/tags/%E8%A7%86%E9%A2%91/">视频</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://anheidelonghu.github.io/tags/%E6%96%87%E6%9C%AC/">文本</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Hugo使用</title>
